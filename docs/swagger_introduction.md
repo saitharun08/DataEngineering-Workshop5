@@ -45,11 +45,6 @@ In the ever-evolving landscape of API development, Swagger has emerged as a cruc
 
 In essence, adopting Swagger streamlines the API development process, fostering collaboration, improving documentation accuracy, and ensuring the consistent implementation of APIs across diverse development environments.
 
-## What You'll Learn in This Section
-- The fundamentals of Swagger and its role in API development.
-- Key features and benefits that make Swagger a powerful tool.
-- How to get started with Swagger and set up your development environment.
-
 ### Basic Example
 Consider a simple API for managing a list of tasks. With Swagger, you can define the API structure using the OpenAPI Specification. Here's a basic example in YAML:
 
