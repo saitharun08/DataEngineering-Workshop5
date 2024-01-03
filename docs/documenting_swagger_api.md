@@ -37,7 +37,7 @@ openapi: 3.0.0
 
 ```yaml
 info:
-  title: Articales V2
+  title: Articales V1
   description: Multiple APIs to get the artical records form the database.
   version: '0.0.1'
 ```
@@ -46,6 +46,17 @@ info:
 - description: is extended information about your API
 - version: is an arbitrary string that specifies the version of your API
 
+**Servers**
+
+```yaml
+servers:
+  - url: '${SERVER_URL}'
+```
+
+- The servers section specifies the API server and base URL
+- All API paths are relative to the server URL
+
+**Paths**
   
 
 
