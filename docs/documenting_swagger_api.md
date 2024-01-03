@@ -23,5 +23,13 @@ In the context of Swagger and many modern web APIs, the API specification is oft
 ## API Specification in Swagger
 Now let us start working on the Design of the API Specification using Swagger, to cretae the design the we need to use **OpenAPI Specification** (formerly Swagger Specification) which is an API description format for REST APIs and the specification is typically written in YAML or JSON format. We are going to write in YAML.
 
-Throughout this session, we can use the online [`Swagger Editor`](https://editor.swagger.io/) to edit the YAML of the API.
+Throughout this section, we can use the online [`Swagger Editor`](https://editor.swagger.io/) to edit the YAML of the API.
+
+
+**Metadata**
+
+  
+
+
+
 
