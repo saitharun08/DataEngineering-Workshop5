@@ -1,4 +1,4 @@
-# Introduction to Swagger
+# Introduction to Swagger Documentation
 
 ## Overview
 Welcome to the first section of the "Introduction to Swagger" workshop! In this section, we'll provide you with a comprehensive introduction to Swagger and its significance in the world of API development.
