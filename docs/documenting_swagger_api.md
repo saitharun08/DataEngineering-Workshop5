@@ -57,6 +57,20 @@ servers:
 - All API paths are relative to the server URL
 
 **Paths**
+
+```yaml
+paths:
+  /articlesByReleaseDate/{articleReleaseDate}/:
+  get:
+    operationId: getArticlesByReleaseDate
+      tags:
+        - Python web scrapping APIs
+      summary: Get all articles for given date.
+      description: Gives all the parsed articles from python blogs for a given date.
+```
+
+- The paths section defines individual endpoints (paths) in your API, and the HTTP methods (operations) supported by these endpoints.
+- An operation definition includes parameters, request body (if any), possible response status codes (such as 200 OK or 404 Not Found) and response contents.
   
 
 
