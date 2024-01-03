@@ -12,12 +12,12 @@ One day workshop on Swagger Documentation and Implementing the API’s
 ## Schedule
 | Time          | Topics
 |---------------|-------
-| 09:00 - 11:00 |  Coding Activity
-| 11:00 - 11:30 |  [`Introduction to Swagger Documentation`](docs/swagger_introduction.md)
+| 09:00 - 09:30 |  [`Introduction to Swagger Documentation`](docs/swagger_introduction.md) 
+| 09:30 - 11:30 |  [``](docs/)
 | 11:30 - 01:00 |  [``](docs/)
 | 01:00 - 02:00 |  `Break`
 | 02:00 - 02:30 |  [``](docs/)
-| 02:30 - 04:30 |  [``](docs/)
+| 03:30 - 04:30 |  Technical Activity
 | 04:30 - 04:45 |  `Q & A`
 | 04:45 - 05:00 |  [`Wrapping Up`](/docs/)
 
