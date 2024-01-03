@@ -105,7 +105,8 @@ paths:
       summary: Get all articles for given date.
       description: Gives all the parsed articles from python blogs for a given date.
 ```
-- 
+- Operations can have parameters passed via URL path (articlesByReleaseDate/{articleReleaseDate}), you can define the parameter data types, format, whether they are required or optional, and other details using the parameter key.
+- For more information, see Describing Parameters.
 
 
 
