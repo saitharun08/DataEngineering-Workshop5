@@ -27,6 +27,13 @@ Throughout this section, we can use the online [`Swagger Editor`](https://editor
 
 
 **Metadata**
+```yaml
+openapi: 3.0.0
+```
+- Every API definition must include the version of the OpenAPI Specification that this definition is based on
+- The OpenAPI version defines the overall structure of an API definition – what you can document and how you document it
+- The available versions are 3.0.0, 3.0.1, 3.0.2, and 3.0.3
+- 
 
   
 
