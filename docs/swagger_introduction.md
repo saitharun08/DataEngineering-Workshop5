@@ -78,5 +78,6 @@ paths:
       responses:
         '201':
           description: Task created successfully
+```
 
 To explore and interact with the above example using the Swagger Editor, you can visit https://editor.swagger.io/. The Swagger Editor provides a web-based interface where you can edit, visualize, and test OpenAPI specifications in real-time.
