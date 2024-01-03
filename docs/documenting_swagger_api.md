@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the second section "Planning API using Swagger"! In this module, we will delve into the crucial aspect of planning your API using Swagger. A well-organized API design is the foundation for seamless development and effective communication between teams.
 
-# Why Plan Your API?
+## Why Plan Your API?
 Before diving into the technical details, let's discuss the importance of planning your API. A well-thought-out API design ensures consistency, scalability, and ease of maintenance throughout the development process.
 
 ## An API Specification
