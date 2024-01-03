@@ -3,17 +3,17 @@
 One day workshop on Swagger Documentation and Implementing the API’s
 
 ## What will you learn by the end of this workshop?
-- By the end of this workshop you will learn how to create the Swagger Documentation for the planned API’s.
-- you will learn
-- you will learn
-- you will learn
-- you will learn
+- By the end of this workshop you will learn basics of Swagger Documentation.
+- you will learn how to create the Swagger Documentation for the planned API’s.
+- you will learn how to implement the planned API’s after documenting the API's using Swagger.
+- you will learn running the Swagger in local system.
+- you will learn connecting the API to the database.
 
 ## Schedule
 | Time          | Topics
 |---------------|-------
 | 09:00 - 09:30 |  [`Introduction to Swagger Documentation`](docs/swagger_introduction.md) 
-| 09:30 - 11:30 |  [``](docs/)
+| 09:30 - 11:30 |  [`Doucmenting the Planned API's using the Swagger`](docs/)
 | 11:30 - 01:00 |  [``](docs/)
 | 01:00 - 02:00 |  `Break`
 | 02:00 - 02:30 |  [``](docs/)
