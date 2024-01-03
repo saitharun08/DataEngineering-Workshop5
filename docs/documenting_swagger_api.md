@@ -72,7 +72,40 @@ paths:
 - The paths section defines individual endpoints (paths) in your API, and the HTTP methods (operations) supported by these endpoints.
 - An operation definition includes parameters, request body (if any), possible response status codes (such as 200 OK or 404 Not Found) and response contents.
   
+**Parameters**
 
+```yaml
+paths:
+  /articlesByReleaseDate/{articleReleaseDate}/:
+    parameters:
+    - in: path
+      name: articleReleaseDate
+      schema:
+        type: string
+        format: date-time
+        minLength: 10
+        maxLength: 10
+        nullable: false
+      examples:
+        HTTP200-ValidDate:
+          summary: ValidArticleReleaseDate
+          value: "2022-09-04"
+        HTTP404-InvalidReleaseDate:
+          summary: InvalidReleaseDate
+          value: "2022 09 04"
+        HTTP404-NoResultsFoundForReleaseDate:
+          summary: NoResultsFoundForReleaseDate
+          value: "2025-09-04"
+      required: true
+      description: Retrieve the articles released on specified releaseDate.
+    get:
+      operationId: getArticlesByReleaseDate
+      tags:
+        - Python web scrapping APIs
+      summary: Get all articles for given date.
+      description: Gives all the parsed articles from python blogs for a given date.
+```
+- 
 
 
 
