@@ -1,10 +1,11 @@
 # Planning API using Swagger
 
+
 ## Overview
-Welcome to the second section "Planning API using Swagger"! In this module, we will delve into the crucial aspect of planning your API using Swagger. A well-organized API design is the foundation for seamless development and effective communication between teams.
+Welcome to the second section "Planning API using Swagger"! In this module, we will delve into the crucial aspect of planning your API using Swagger. 
 
 ## Why Plan Your API?
-Before diving into the technical details, let's discuss the importance of planning your API. A well-thought-out API design ensures consistency, scalability, and ease of maintenance throughout the development process.
+A well-organized API design is the foundation for seamless development and effective communication between teams. A well-thought-out API design ensures consistency, scalability, and ease of maintenance throughout the development process.
 
 ## An API Specification
 An API (Application Programming Interface) specification is a document that outlines the details of how software components should interact with each other. It serves as a contract or agreement between different software systems, defining the rules and requirements for communication.
@@ -18,4 +19,9 @@ In the context of Swagger and many modern web APIs, the API specification is oft
 - **Authentication:** Specifies the authentication methods supported by the API, if any, and how to include authentication details in requests.
 - **Error Handling:** Describes how errors are communicated back to the client, including status codes and error message formats.
 - **Documentation:** Provides additional information and descriptions to help developers understand how to use the API effectively.
+
+## API Specification in Swagger
+Now let us start working on the Design of the API Specification using Swagger, to cretae the design the we need to use **OpenAPI Specification** (formerly Swagger Specification) which is an API description format for REST APIs and the specification is typically written in YAML or JSON format. We are going to write in YAML.
+
+Throughout this session, we can use the online [`Swagger Editor`](https://editor.swagger.io/) to edit the YAML of the API.
 
