@@ -1,7 +1,7 @@
 # Introduction to Swagger Documentation
 
 ## Overview
-Welcome to the first section of the "Introduction to Swagger" workshop! In this section, we'll provide you with a comprehensive introduction to Swagger and its significance in the world of API development.
+Welcome to the first section "Introduction to Swagger Documentation"! In this section, we'll provide you with a comprehensive introduction to Swagger and its significance in the world of API development.
 
 ## What is Swagger?
 Swagger is an open-source framework that simplifies the design, documentation, and testing of APIs. It provides a set of tools and specifications, including the Swagger Editor, Swagger UI, and Swagger Codegen, to streamline the entire API lifecycle.
